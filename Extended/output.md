@@ -18,3 +18,4 @@ X is 1
 X is 0
 ```
 
+*Contributor: tshoang* 
